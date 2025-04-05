@@ -62,7 +62,7 @@ Removing image backgrounds with PurePixel is incredibly easy:
 ## 🧑‍💻 Tech Stack 
 
 * **Frontend**: React, CSS, JavaScript
-* **Text & Image Manipulation**:background remover
+* **Text & Image Manipulation**: background remover
 * **Deployment**: Vercel
   
 ## 🚀 Contributing
